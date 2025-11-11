@@ -1,16 +1,16 @@
-title: "My Blogs Name"
-author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: "Kaipapar blog!"
+author: "Karri Korsu"
+description: "" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
-#facebook_username: username
+email: ""
+#twitter_username: "twitteruser"
+github_username: "kaipapar"
+linkedin_username: "karri-korsu-5bba05220"
+facebook_username: "karri.korsu"
 #flickr_username: username
-#instagram_username: username
+instagram_username: "kaipapar"
 #pinterest_username: username
 #youtube_username: username
 #googleplus_username: +username
