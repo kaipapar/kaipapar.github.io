@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sorted by category
+title: Posts
 ---
 
 <!-- {% for tag in site.tags %}

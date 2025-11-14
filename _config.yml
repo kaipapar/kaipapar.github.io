@@ -31,10 +31,12 @@ plugins:
   - jekyll-sitemap
 
 titles_from_headings:
-  strip_title: true
-  collections: true
+  strip_title: false
+  collections: false
+
 include:
   - _pages
+
 defaults:
   - scope:
       path: ""
