@@ -1,5 +1,5 @@
 ---
-title: "Levylaatikko 1: alustavat suunnitelmat"
+title: "levylaatikko.01 alustavat suunnitelmat"
 tags: 
     - fi
     - records
