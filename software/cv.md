@@ -4,7 +4,7 @@ layout: cv
 category: software
 title: CV
 layout: post
-date: 2025.12.16
+date: 2026.01.07
 ---
 
 # Karri Korsu 
@@ -13,13 +13,13 @@ date: 2025.12.16
 
 ## Executive Summary
 
-Motivated ICT Engineering graduate specializing in embedded systems and software development. Skilled in C and Python with hands-on experience from internships and independent projects, including real-time audio processing and automated embedded applications. Strong problem-solving abilities, clear documentation habits, and a particular interest in audio signal processing and machine learning.
+ICT engineering graduate motivated and eager to learn more about embedded systems and software development as a field. Hands-on experience with C and Python from internships and independent projects. My interests are various, circling embedded systems, audio processing and open data as the most recent themes. A jovial but head on approach in team work.
 
 ## Working Experience
 
 #### Tekniikkatie Oy (internships, 14 weeks between 9.-12.2025)
 
-- Designed and implemented internal tooling and embedded software components in C and Python
+- Designed and implemented software in C and Python
 - Created technical documentation to support maintenance and future development
 
 #### Kiiltoclean Oy (warehouse worker / forklift operator, 5.-8.2024 & 5.-8.2025)
@@ -38,36 +38,36 @@ Motivated ICT Engineering graduate specializing in embedded systems and software
 
 Here are relevant projects I have set out to do fueled by a desire to solve problems posed by my hobbies with aptitude gained in my studies:
 
-[**Milieau-analysis (2025)**](https://github.com/kaipapar/milieau-analysis)
+[**Milieau-analysis (2026)**](https://github.com/kaipapar/milieau-analysis)
 
 Analysing Turku city center property values through environmental types
-- Python, GIS, OOP, unit testing
+- _Keywords_: Python, GIS, OOP, unit testing
 - Documentation: [process documentation](https://kaipapar.github.io/archive/) under software -> milieau-analysis
 - Status: ongoing
 
 [**Neulatuntimittari (2025)**](https://github.com/kaipapar/Neulatuntimittari)
 
 A fully automatic turntable stylus wear indicator (ESP32-based), designed to measure wear and extend cartridge lifespan. 
-- Embedded C, ESP32, system design
+- _Keywords_: Embedded C, ESP32, system design
 - Documentation: [overview of process](https://kaipapar.github.io/software/neulatuntimittari/whole-process-in-pictures/)
-- Status: finished
 
 [**RoCue (2023)**](https://github.com/kaipapar/RoCue)
 
 An ASCII roguelike game which developed our understanding of system design and code modularity, C programming and working with code as a team.
-- C, teamwork, system design, Ncurses
-- Status: finished
+- _Keywords_: C, team work, system design, Ncurses
 
 ## Education & Qualifications
 ### Bachelor of Engineering, ICT, Embedded Software and IoT
 
 Turku University of Applied Sciences
 - GPA: 4,27/5
-- Course transcript: upon request
-- Experience from multiple courses serving as project manager.
+- Embedded systems was my primary focus in my studies, but I also studied Fullstack, Electronics, multiple Python courses...
+- I served as team leader on multiple course projects during my studies and each experience taught me more about how important good communication and cooperation between all stakeholders is and what is expected of different stakeholders.
+
 
 [Thesis](https://urn.fi/URN:NBN:fi:amk-2025052817615): Possibilities for speaker diarization in an embedded context : a feasibility study, Grade 5/5, 2025
-- Raspberry pi 4, embedded systems, diarization, speech processing, ML, PyAnnote, Sherpa-onnx
+- _Keywords_: Raspberry pi 4, embedded systems, diarization, speech processing, ML, PyAnnote, Sherpa-onnx
+- For my thesis I got to delve deeply into speech processing and learned not only about the subject matter, but also about how much I enjoyed the workflow of researching a multifaceted field, systematically evaluating what the best solution is and implementing that solution.
 
 ## Misc. Information
 
@@ -76,8 +76,8 @@ Turku University of Applied Sciences
 
 **Vintage audio hobby:**
 
-Developing, repairing and maintaining vintage audio equipment has strengthened my problem‑solving, critical listening and practical electronics skills (soldering, fault analysis).
+I've been interested in electronics through home audio for almost ten years now and it has helped me gain knowledge about design principles, electrical components and problem solving.
 
-**Visual art hobby:**
+**Art hobby:**
 
-Visual art experience has enhanced my creative problem solving skills and improved my ability to design coherent systems.
+Creating and engaging with art sharpens my ability to recognize patterns and understand complex systems, fostering a structured yet creative approach to problem-solving and system design.
